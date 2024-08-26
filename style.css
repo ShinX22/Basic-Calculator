@@ -92,4 +92,5 @@ button:active {
     top: 100%;
     left: 100%;
     font-family: cursive;
+    cursor: pointer;
 }
